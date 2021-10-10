@@ -39,4 +39,4 @@ my_layout = Layout(title = "US Fires 9/14/2020 through 9/20/2020")
 
 fig = {'data': data, 'layout': my_layout}
 
-offline.plot(fig, filename ='usfiredataendofSept2020.html')
+offline.plot(fig, filename ='USfiredataendofSept2020.html')
