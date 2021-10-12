@@ -22,7 +22,7 @@ print(lons[:5])
 print(bright[:5])
 
 data = [{
-     'type': 'scattergeo',
+    'type': 'scattergeo',
     'lon': lons,
     'lat': lats,
     'marker' :{
